@@ -4,33 +4,49 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution(object):
+
+    def helper(self, root):
+        if root.left is None:
+            return root.right
+        if root.right is None:
+            return root.left
+
+        rightChild = root.right
+        lastRight = root.left
+
+        while lastRight.right:
+            lastRight = lastRight.right
+        
+        lastRight.right = rightChild
+        return root.left
+
     def deleteNode(self, root, key):
-        if not root:
+        """
+        :type root: Optional[TreeNode]
+        :type key: int
+        :rtype: Optional[TreeNode]
+        """
+        if root is None:
             return None
+        
+        if root.val == key:
+            return self.helper(root)
+        
+        curr = root
 
-        if key < root.val:
-            root.left = self.deleteNode(root.left, key)
-
-        elif key > root.val:
-            root.right = self.deleteNode(root.right, key)
-
-        else:
-            # Case 1 & 2
-            if not root.left:
-                return root.right
-
-            if not root.right:
-                return root.left
-
-            # Case 3: Find inorder successor
-            successor = root.right
-            while successor.left:
-                successor = successor.left
-
-            root.val = successor.val
-
-            root.right = self.deleteNode(root.right, successor.val)
+        while curr:
+            if curr.val > key:
+                if curr.left and curr.left.val == key:
+                    curr.left = self.helper(curr.left)
+                    break
+                else:
+                    curr = curr.left
+            else:
+                if curr.right and curr.right.val == key:
+                    curr.right = self.helper(curr.right)
+                    break
+                else:
+                    curr = curr.right
 
         return root
