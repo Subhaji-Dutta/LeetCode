@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1200-minimum-absolute-difference](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
