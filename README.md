@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0001-two-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0001-two-sum) |
 | [1200-minimum-absolute-difference](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
