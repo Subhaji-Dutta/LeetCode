@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0450-delete-node-in-a-bst](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
