@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0046-permutations) |
 | [0784-letter-case-permutation](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0046-permutations) |
 | [1200-minimum-absolute-difference](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
