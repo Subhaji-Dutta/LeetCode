@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0048-rotate-image) |
 | [1200-minimum-absolute-difference](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0048-rotate-image) |
 ## Database
 |  |
 | ------- |
