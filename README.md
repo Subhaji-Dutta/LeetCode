@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0049-group-anagrams) |
 | [0784-letter-case-permutation](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Backtracking
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0049-group-anagrams) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -117,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0049-group-anagrams) |
 | [1200-minimum-absolute-difference](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0049-group-anagrams) |
 | [1200-minimum-absolute-difference](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhaji-Dutta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
