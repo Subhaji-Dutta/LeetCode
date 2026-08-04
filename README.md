@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Subhaji-Dutta/LeetCode/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
